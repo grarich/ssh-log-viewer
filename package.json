@@ -34,7 +34,7 @@
     "@typescript-eslint/parser": "^5.19.0",
     "autoprefixer": "^10.4.4",
     "cross-env": "^7.0.3",
-    "electron": "^18.0.3",
+    "electron": "^18.3.7",
     "electron-builder": "^23.0.3",
     "electron-reload": "^2.0.0-alpha.1",
     "electron-store": "^8.0.1",
